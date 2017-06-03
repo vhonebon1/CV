@@ -47,7 +47,7 @@ Coordinator, Galleries and Collectors Team
 
 I'm interested in the application of the arts in unusual fields (healthcare, technology, performance, design etc.) and am co-author on a blog on the subject (https://vantablackart.wordpress.com).  As part of Vantablack I run workshops and events that showcase individuals working on multi-disciplinary arts projects.
 
-I am also writing a blog that records my thoughts on the transition from arts to tech: https://medium.com/@verityhonebon
+I am also writing a blog that records my thoughts on the transition from the art world to tech: https://medium.com/@verityhonebon
 
 I'm an active person - I box, run, play football and practise yoga.
 

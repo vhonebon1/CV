@@ -1,48 +1,54 @@
-## Your Name
+## Verity Honebon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After studying Classics with an emphasis on ancient languages (Latin, Green and Akkadian) at university I spent 6 years working in arts logistics and exhibitions. During this time I was lucky enough to work on several high-profile projects that combined art and technology including the BBC's Your Paintings website and the National Gallery's Soundscapes exhibition, which used acoustic technology to transform the exhibition experience. I joined the June 2017 cohort at Makers Academy, a 16 week software development bootcamp, after a year of self-taught coding to improve my knowledge of code and get a feel for the world of tech with a goal to becoming a Junior Developer.  I would like to work for an organisation whose projects I can really throw myself into and who will support me in my career development.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have strong communication skills which I have developed during my time working in exhibition logistics.  In order to deliver successful exhibitions I had to communicate clearly and frequently with clients to deliver shows that fulfilled their artistic vision within logistical constraints.  I found that as I developed my communication skills I was able to be more flexible - working to changing opening dates and exhibition specifications.  
 
-- Experience
-- Achievements
-- Evidence
+#### Data analysis
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Studying Classics at university was fantastic training in critical thinking and assessing data structures (in this case ancient texts).  While working at the National Gallery I developed these skills by gathering and analysing data, including visitor figures, retail income and wifi tracking, as part of several operational trial projects.  In the summer of 2017 the Gallery switched its main entrance based on the analysis I presented to the Board.  This resulted in an upturn in retail and exhibition ticket sales.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June - September 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Software craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### London School of Economics Summer School (July - August 2014)
+Priniciples of Accounting and Financial Decision Making
+Grade A
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### King's College London (September 2008 - August 2011)
+Classics BA (with an emphasis on ancient languages)
+2.1 honours
 
-#### Any other qualifications
+- Additional modules in Mathematics and Spanish
+- Throughout my time at university I taught Latin in primary schools in Hackney as part of the Iris Project (http://irisproject.org.uk)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### The National Gallery (June 2015 - June 2017)    
+Executive Assistant and Governance Coordinator, Director's Office
+
+#### Imperial College Healthcare Trust Charity (January - June 2015)   
+Arts Administrator, Arts Team
+
+#### Contantine Fine Art Logisitcs (July 2012 - June 2014)
+Coordinator, Galleries and Collectors Team
+
+## Interests
+
+I'm interested in the application of the arts in unusual fields (healthcare, technology, performance, design etc.) and am co-author on a blog on the subject (https://vantablackart.wordpress.com).  As part of Vantablack I run workshops and events that showcase individuals working on multi-disciplinary arts projects.
+
+I'm a very active person - I box, run and play football.
+
+

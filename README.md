@@ -1,6 +1,6 @@
 ## Verity Honebon
 
-I spent six years working in arts logistics and exhibition design. During this time I was lucky enough to work on several high-profile projects that combined art and technology including the BBC's Your Paintings website (now Art UK [Art UK](https://artuk.org/discover/artworks/)) and the National Gallery's Soundscapes exhibition, which used acoustic technology to transform the exhibition experience.  It was working on digital arts projects and alongside developers that sparked my interest in the tech world and in coding.
+I spent six years working in arts logistics and exhibition design. During this time I was lucky enough to work on several high-profile projects that combined art and technology including the BBC's Your Paintings website (now [Art UK](https://artuk.org/discover/artworks/)) and the National Gallery's Soundscapes exhibition, which used acoustic technology to transform the exhibition experience.  It was working on digital arts projects and alongside developers that sparked my interest in the tech world and in coding.
 
 I joined the June 2017 cohort at Makers Academy, a 16 week software development bootcamp, after a year of self-taught coding to improve my knowledge of code and get a feel for the world of tech.  My goal is to become a Junior developer.  I would like to work for an organisation whose projects I can throw myself into and who will support me in both my personal and career development.
 
@@ -32,7 +32,7 @@ Priniciples of Accounting and Financial Decision Making - Grade A
 Classics BA - 2.1 honours
 
 - Additional modules in Mathematics and Spanish
-- Throughout my time at university I taught Latin in primary schools in Hackney as part of the Iris Project, an educational charity introducing the languages and culture of the ancient world to UK state schools [http://irisproject.org.uk](http://irisproject.org.uk)
+- Throughout my time at university I taught Latin in primary schools in Hackney as part of the [Iris Project](http://irisproject.org.uk), an educational charity ithat aims to introduce the languages and culture of the ancient world to UK state schools.
 
 ## Experience
 
@@ -47,7 +47,7 @@ Coordinator, Galleries and Collectors Team
 
 ## Interests
 
-I'm interested in the application of the arts in unusual fields (healthcare, technology, performance, design etc.) and am co-author on a blog on the subject: [VantaBlack](https://vantablackart.wordpress.com).  As part of VantaBlack I run workshops and events that showcase individuals working on multi-disciplinary arts projects. I've found that blogging is a good way to reflect on my thoughts and experiences and so am also keeping a blog that records my thoughts on the transition from the art world to tech: https://medium.com/@verityhonebon.
+I'm interested in the application of the arts in unusual fields (healthcare, technology, performance, design etc.) and am co-author on a blog on the subject: [VantaBlack](https://vantablackart.wordpress.com).  As part of VantaBlack I run workshops and events that showcase individuals working on multi-disciplinary arts projects. I've found that blogging is a good way to reflect on my thoughts and experiences and so am also keeping a blog that records my thoughts on the transition from the art world to tech: [https://medium.com/@verityhonebon](https://medium.com/@verityhonebon).
 
 In my spare time I box, run, play football and practise yoga.
 

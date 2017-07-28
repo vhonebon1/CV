@@ -32,7 +32,7 @@ Priniciples of Accounting and Financial Decision Making - Grade A
 Classics BA - 2.1 honours
 
 - Additional modules in Mathematics and Spanish
-- Throughout my time at university I taught Latin in primary schools in Hackney as part of the [Iris Project](http://irisproject.org.uk), an educational charity ithat aims to introduce the languages and culture of the ancient world to UK state schools.
+- Throughout my time at university I taught Latin in primary schools in Hackney as part of the [Iris Project](http://irisproject.org.uk), an educational charity that aims to introduce the languages and culture of the ancient world to UK state schools.
 
 ## Experience
 

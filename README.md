@@ -2,7 +2,7 @@
 
 I am a creative person who intensely enjoys problem solving.
 
-After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills alongside like minded people.  Other than the technical skills I have learned, the course has benefitted me hugely by giving me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
+After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills alongside like minded people.  Other than the technical skills I have learned, the course has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
 
 I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world.
 

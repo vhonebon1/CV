@@ -10,16 +10,14 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Communication
 
-In order to deliver successful exhibitions I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints (e.g. shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones) that required excellent communication  and creative problem solving skills to overcome.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
+In order to deliver successful exhibitions I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones.  In these sorts of situations good communication, diplomacy and empathy were key tools in completing the projects successfully.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
 
 
 #### Data analysis
 
-Studying ancient languages at university was very thorough training in critical thinking and data analysis.  While working at the National Gallery I developed my data analysis skills by gathering and analysing data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery profit in the face of significant government funding cuts to the Arts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
+Studying ancient languages at university was very thorough training in critical thinking and data analysis.  There are very clear paralells that can be drawn between witing code and text composition as in both cases structure, content and style mustall be carefuly considered.  While working at the National Gallery I developed my data analysis skills by gathering and analysing numerical data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery's profit in the face of significant government funding cuts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
 
 #### Problem solving
-
-#### Learning to learn
 
 
 ## Education
@@ -29,11 +27,11 @@ Studying ancient languages at university was very thorough training in critical 
 Highlights of the course:
 
 - Feeding my curiosity and passion for code - demonstrated in my work from the course and my side projects
-- Adopting a growth-mindset and become more adept at analysing my strengths and potential areas for improvement
+- Moving towards a growth-mindset and becoming more adept at analysing my strengths and potential areas for improvement
 - Focusing on best practise and high quality code through OOP, TDD and MVC
 - Championing structured communication including daily standups and retros
-- Following the principes of agile software delopment and extreme programming closely
-- Using the follwing tech: Ruby, Rails, Javascript and Node.js, Clojure
+- Following the principles of agile software delopment and extreme programming closely
+- Using the follwing technologies: Ruby, Rails, Javascript and Node.js, Clojure
 - Using the following testing frameworks: Rspec, Jasmine and custom built assertion libraries
 
 #### London School of Economics Summer School (July - August 2014)

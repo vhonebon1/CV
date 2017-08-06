@@ -1,29 +1,40 @@
 ## Verity Honebon
 
-I spent six years working in arts logistics and exhibition design. During this time I was lucky enough to work on several high-profile projects that combined art and technology including the BBC's Your Paintings website (now [Art UK](https://artuk.org/discover/artworks/)) and the National Gallery's Soundscapes exhibition, which used acoustic technology to transform the exhibition experience.  It was working on digital arts projects and alongside developers that sparked my interest in the tech world and in coding.
+I am a creative person who intensely enjoys problem solving.
 
-I joined the June 2017 cohort at Makers Academy, a 16 week software development bootcamp, after a year of self-taught coding to improve my knowledge of code and get a feel for the world of tech.  My goal is to become a Junior developer.  I would like to work for an organisation whose projects I can throw myself into and who will support me in both my personal and career development.
+After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills alongside like minded people.  The course has benefitted me hugely by giving me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
+
+I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world.
 
 ## Skills
 
 #### Communication
 
-I have strong communication skills which I have developed during my time working in exhibition logistics.  In order to deliver successful exhibitions I had to communicate clearly and frequently with clients, artists, colleagues and third parties to overcome logistical constraints and deliver shows that fulfilled the artistic vision.  I found that as I developed my communication skills I was able to be more flexible - working to changing opening dates and complex exhibition specifications.  
+In order to deliver successful exhibitions in my previous jobs I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints (e.g. shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones) that required excellent communication  and creative problem solving skills to overcome.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
+
 
 #### Data analysis
 
-Studying Classics at university was very thorough training in critical thinking and assessing data structures (in this case ancient texts).  While working at the National Gallery I developed these skills by gathering and analysing data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an upturn in retail and exhibition ticket sales.
+Studying ancient languages at university was very thorough training in critical thinking and data analysis.  In many ways the compostion of an ancient text is very similar to writing code as the stucture, content, bevity and tone must all be considered carefully.  While working at the National Gallery I developed my data analysis skills by gathering and analysing data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery profit in the face of significant government funding cuts to the Arts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
+
+#### Problem solving
+
+fill this in
+
 
 ## Education
 
 #### Makers Academy (June - September 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Highlights of the course:
+
+- Feeding my curiosity and passion for code - demonstrated in my work from the course and my side projects
+- Adopting a growth-mindset and become more adept at analysing my strengths and potential areas for improvement
+- Focusing on best practise and high quality code through OOP, TDD and MVC
+- Championing structured communication including daily standups and retros
+- Following the principes of agile software delopment and extreme programming closely
+- Using the follwing tech: Ruby, Rails, Javascript and Node.js, Clojure
+- Using the following testing frameworks: Rspec, Jasmine and custom built assertion libraries
 
 #### London School of Economics Summer School (July - August 2014)
 Priniciples of Accounting and Financial Decision Making - Grade A
@@ -39,16 +50,17 @@ Classics BA - 2.1 honours
 #### The National Gallery (June 2015 - June 2017)    
 Executive Assistant and Governance Coordinator, Director's Office
 
+Notable projects:
+* [Soundscapes](https://www.nationalgallery.org.uk/whats-on/soundscapes) - An exhibition that combined artwork and music.
+* [Weaving Magic](https://www.nationalgallery.org.uk/whats-on/exhibitions/chris-ofili-weaving-magic) - A modern art exhibition 
+
 #### Imperial College Healthcare Trust Charity (January - June 2015)   
 Arts Administrator, Arts Team
 
 #### Contantine Fine Art Logisitics (July 2012 - June 2014)
 Coordinator, Galleries and Collectors Team
 
-## Interests
+#### The Public Catalogue Foundation (May 2011 - July 2012 )
 
-I'm interested in the application of the arts in unusual fields (healthcare, technology, performance, design etc.) and am co-author on a blog on the subject: [VantaBlack](https://vantablackart.wordpress.com).  As part of VantaBlack I run workshops and events that showcase individuals working on multi-disciplinary arts projects. I've found that blogging is a good way to reflect on my thoughts and experiences and so am also keeping a blog that records my thoughts on the transition from the art world to tech: [https://medium.com/@verityhonebon](https://medium.com/@verityhonebon).
-
-In my spare time I box, run, play football and practise yoga.
 
 

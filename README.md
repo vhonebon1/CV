@@ -10,16 +10,16 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Communication
 
-In order to deliver successful exhibitions in my previous jobs I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints (e.g. shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones) that required excellent communication  and creative problem solving skills to overcome.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
+In order to deliver successful exhibitions I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints (e.g. shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones) that required excellent communication  and creative problem solving skills to overcome.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
 
 
 #### Data analysis
 
-Studying ancient languages at university was very thorough training in critical thinking and data analysis.  In many ways the compostion of an ancient text is very similar to writing code as the stucture, content, bevity and tone must all be considered carefully.  While working at the National Gallery I developed my data analysis skills by gathering and analysing data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery profit in the face of significant government funding cuts to the Arts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
+Studying ancient languages at university was very thorough training in critical thinking and data analysis.  While working at the National Gallery I developed my data analysis skills by gathering and analysing data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery profit in the face of significant government funding cuts to the Arts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
 
 #### Problem solving
 
-fill this in
+#### Learning to learn
 
 
 ## Education
@@ -52,7 +52,7 @@ Executive Assistant and Governance Coordinator, Director's Office
 
 Notable projects:
 * [Soundscapes](https://www.nationalgallery.org.uk/whats-on/soundscapes) - An exhibition that combined artwork and music.
-* [Weaving Magic](https://www.nationalgallery.org.uk/whats-on/exhibitions/chris-ofili-weaving-magic) - A modern art exhibition 
+* [Weaving Magic](https://www.nationalgallery.org.uk/whats-on/exhibitions/chris-ofili-weaving-magic) - Unusual as a modern art exhibition at the National Gallery. 
 
 #### Imperial College Healthcare Trust Charity (January - June 2015)   
 Arts Administrator, Arts Team
@@ -60,7 +60,8 @@ Arts Administrator, Arts Team
 #### Contantine Fine Art Logisitics (July 2012 - June 2014)
 Coordinator, Galleries and Collectors Team
 
-#### The Public Catalogue Foundation (May 2011 - July 2012 )
+#### The Public Catalogue Foundation (May 2011 - July 2012)
+Project Assistant
 
 
 

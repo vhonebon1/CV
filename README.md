@@ -19,6 +19,13 @@ Studying ancient languages at university was very thorough training in critical 
 
 #### Problem solving
 
+## Projects
+
+| Project Name  | Technologies          | Description  |
+| ------------- | ----------------------|--------------|
+| [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instragram            |
+|               |                       |              |
+| Content Cell  | Content Cell          |              |  
 
 ## Education
 

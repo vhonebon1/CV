@@ -2,7 +2,7 @@
 
 I am a creative person who intensely enjoys problem solving.
 
-After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills alongside like minded people.  Other than the technical skills I have learned, the course has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
+After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills with like minded people.  As well as the technical skills I have learned, the course has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
 
 I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world.
 
@@ -10,14 +10,18 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Communication
 
-In order to deliver successful exhibitions I had to communicate clearly and frequently with clients, artists, colleagues and third parties in order to deliver shows that fulfilled the artistic vision.  No one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations, working with priceless and extremely fragile artworks, working with people in different time zones.  In these sorts of situations good communication, diplomacy and empathy were key tools in completing the projects successfully.  My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas, which I feel I did by tailoring my exisiting comunication skills to pair and group work and by championing regular standup and retros.
+* In my previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
+* My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
 
 
 #### Data analysis
 
-Studying ancient languages at university was very thorough training in critical thinking and data analysis.  There are very clear paralells that can be drawn between witing code and text composition as in both cases structure, content and style mustall be carefuly considered.  While working at the National Gallery I developed my data analysis skills by gathering and analysing numerical data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery's profit in the face of significant government funding cuts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 11% upturn in retail profit and exhibition ticket sales.  
+* Studying ancient languages at university was very thorough training in critical thinking and data analysis.  There are very clear parallels that can be drawn between writing code and text composition since in both cases structure, content and style must all be carefully considered.  
+* While working at the National Gallery I developed these analytical skills by gathering and analysing numerical data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery's profit in the face of significant funding cuts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 6% upturn in retail profit and exhibition ticket sales.  
 
 #### Problem solving
+
+
 
 ## Projects
 

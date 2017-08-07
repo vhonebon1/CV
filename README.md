@@ -4,7 +4,7 @@ I am a creative person who intensely enjoys problem solving.
 
 After six years of working in arts logistics and exhibition design I joined Makers Academy (MA) to improve the quality of my code and to challenge myself to learn new skills with like minded people.  As well as the technical skills I have learned, the course has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
 
-I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world.
+I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world. 
 
 ## Skills
 
@@ -25,7 +25,7 @@ I would like to work for a company that values collaboration highly and whose go
 
 ## Projects
 
-You can find a full list of my projects on my github but here are a few of my favourites:
+You can find a full list of my projects on my Github but here are a few of my favourites:
 
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|

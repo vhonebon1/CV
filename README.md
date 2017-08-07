@@ -25,7 +25,7 @@ Studying ancient languages at university was very thorough training in critical 
 | ------------- | ----------------------|--------------|
 | [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instragram            |
 | [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, 4 days into learning Javascript to help me build my skills in the language |
-| [Sarca-therapist]()  | Javascript, Jasmine, JQuery          |      This group project saw us build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
+| [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw us build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
 
 ## Education
 
@@ -34,11 +34,11 @@ Studying ancient languages at university was very thorough training in critical 
 Highlights of the course:
 
 - Feeding my curiosity and passion for code - demonstrated in my work from the course and my side projects
-- Moving towards a growth-mindset and becoming more adept at analysing my strengths and potential areas for improvement
+- Adopting a growth-mindset and becoming more adept at analysing my strengths and potential areas for improvement
 - Focusing on best practise and high quality code through OOP, TDD and MVC
 - Championing structured communication including daily standups and retros
 - Following the principles of agile software delopment and extreme programming closely
-- Using the follwing technologies: Ruby, Rails, Javascript and Node.js, Clojure
+- Using the following technologies: Ruby, Rails, Javascript and Node.js, Clojure
 - Using the following testing frameworks: Rspec, Jasmine and custom built assertion libraries
 
 #### London School of Economics Summer School (July - August 2014)

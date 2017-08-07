@@ -63,7 +63,7 @@ Executive Assistant and Governance Coordinator, Director's Office
 
 Notable projects:
 * [Soundscapes](https://www.nationalgallery.org.uk/whats-on/soundscapes) - An exhibition that combined artwork and music.
-* [Weaving Magic](https://www.nationalgallery.org.uk/whats-on/exhibitions/chris-ofili-weaving-magic) - Unusual as a modern art exhibition at the National Gallery. 
+* [Weaving Magic](https://www.nationalgallery.org.uk/whats-on/exhibitions/chris-ofili-weaving-magic) - A modern art exhibition at the National Gallery. 
 
 #### Imperial College Healthcare Trust Charity (January - June 2015)   
 Arts Administrator, Arts Team

@@ -6,6 +6,16 @@ After six years of working in arts logistics and exhibition design I joined Make
 
 I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world. 
 
+## Projects
+
+During my time at Makers Academy, I've gone from being a novice coder to being able to confidently build end-to-end web and mobile applications using a range of technologies.  You can find a full list of projects on my Github but below are some of my favourite projects to date:
+
+| Project Name  | Technologies          | Description  |
+| ------------- | ----------------------|--------------|
+| [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instagram            |
+| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, 4 days into learning Javascript to help me build my skills in the language |
+| [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw my team build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
+
 ## Skills
 
 #### Communication
@@ -22,17 +32,6 @@ I would like to work for a company that values collaboration highly and whose go
 #### Problem solving
 
 * Problem solving was one of the main things that drew me to coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed very practical problem solving skills at work - no one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  However, I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such eschewing existing testing frameworks in favour of building my own - and aim to learn new languages as part of this outlook.
-
-
-## Projects
-
-During my time at Makers Academy, I've gone from being a novice coder to being able to confidently build end-to-end web and mobile applications using a range of technologies.  You can find a full list of projects on my Github but below are some of my favourite projects to date:
-
-| Project Name  | Technologies          | Description  |
-| ------------- | ----------------------|--------------|
-| [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instagram            |
-| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, 4 days into learning Javascript to help me build my skills in the language |
-| [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw my team build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
 
 ## Education
 

@@ -1,4 +1,4 @@
-## Verity Honebon
+# Verity Honebon
 
 I am a creative person who intensely enjoys problem solving.
 
@@ -25,7 +25,7 @@ I would like to work for a company that values collaboration highly and whose go
 
 ## Projects
 
-You can find a full list of my projects on my Git
+You can find a full list of my projects on my github but here are a few of my favourites:
 
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|

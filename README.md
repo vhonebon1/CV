@@ -21,12 +21,12 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Problem solving
 
-Problem solving was one of the main things that drew me into the world of coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed a very practical version of problem solving skills at work. No one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  However, I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such as creating my own testing frameworks - and aim to learn new languages as part of this.
+Problem solving was one of the main things that drew me into the world of coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed a very practical problem solving skills at work. No one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  However, I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such as creating my own testing frameworks - and aim to learn new languages as part of this.
 
 
 ## Projects
 
-You can find a full list of my projects on my Github but here are a few of my favourites:
+During my time at Makers Academy, I've gone from being a novice coder to being able to confidently build end-to-end web and mobile applications using a range of technologies.  You can find a full list of projects on my Github but below are some of my favourite projects to date:
 
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|

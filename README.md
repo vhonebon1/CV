@@ -25,6 +25,8 @@ I would like to work for a company that values collaboration highly and whose go
 
 ## Projects
 
+You can find a full list of my projects on my Git
+
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|
 | [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instragram            |

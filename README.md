@@ -24,7 +24,7 @@ Studying ancient languages at university was very thorough training in critical 
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|
 | [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, Postgresql and Rspec | Using Rails for the first time I built a clone of Instragram            |
-| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              | I built this after 4 days into learning Javascript to build my skills in the language
+| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              | I built this after 4 days into learning Javascript to build my skills in the language |
 | Content Cell  | Content Cell          |              |  
 
 ## Education

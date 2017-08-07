@@ -78,5 +78,7 @@ Project Assistant
 
 I write a [blog](https://medium.com/@verityhonebon) about my transition from Arts to Tech and am co-founder of [VantaBlack](https://vantablackart.wordpress.com/) a platform that recognises cross disciplinary art projects.
 
+In my spare time I run, box and attend art exhibitions.
+
 
 

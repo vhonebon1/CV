@@ -56,7 +56,7 @@ Classics BA - 2.1 honours
 - Additional modules in Mathematics and Spanish
 - Throughout my time at university I taught Latin in primary schools in Hackney as part of the [Iris Project](http://irisproject.org.uk), an educational charity that aims to introduce the languages and culture of the ancient world to UK state schools.
 
-## Experience
+## Previous Work
 
 #### The National Gallery (June 2015 - June 2017)    
 Executive Assistant and Governance Coordinator, Director's Office

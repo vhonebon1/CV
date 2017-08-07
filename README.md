@@ -10,8 +10,8 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Communication
 
-* In my previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
-* My goal on starting MA was to become a great collaborator and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
+* In previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
+* My goal on starting Makers Academy was to become a great collaborator and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
 
 
 #### Data analysis
@@ -21,6 +21,7 @@ I would like to work for a company that values collaboration highly and whose go
 
 #### Problem solving
 
+Problem solving was one of the main things that drew me into the world of coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed a very practical version of problem solving skills at work. No one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  However, I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such as creating my own testing frameworks - and aim to learn new languages as part of this.
 
 
 ## Projects

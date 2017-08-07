@@ -44,7 +44,7 @@ Highlights of the course:
 - Focusing on best practise and high quality code through OOP, TDD and MVC
 - Championing structured communication including daily standups and retros
 - Following the principles of agile software development and extreme programming closely
-- Using the following technologies: Ruby, Rails, Javascript and Node.js, Clojure
+- Using the following technologies: Ruby, Rails, Javascript, Node.js and Clojure
 - Using the following testing frameworks: Rspec, Jasmine and custom built assertion libraries
 
 #### London School of Economics Summer School (July - August 2014)

@@ -74,5 +74,9 @@ Coordinator, Galleries and Collectors Team
 #### The Public Catalogue Foundation (May 2011 - July 2012)
 Project Assistant
 
+## Other Interests
+
+I write a [blog](https://medium.com/@verityhonebon) about my transition from Arts to Tech and am co-founder of [VantaBlack](https://vantablackart.wordpress.com/) a platform that recognises cross disciplinary art projects.
+
 
 

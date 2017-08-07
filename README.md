@@ -51,7 +51,7 @@ Highlights of the course:
 Priniciples of Accounting and Financial Decision Making - Grade A
 
 #### King's College London (September 2008 - August 2011)
-Classics BA - 2.1 honours
+Classics BA - 2.1 
 
 - Additional modules in Mathematics and Spanish
 - Throughout my time at university I taught Latin in primary schools in Hackney as part of the [Iris Project](http://irisproject.org.uk), an educational charity that aims to introduce the languages and culture of the ancient world to UK state schools.

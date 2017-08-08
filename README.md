@@ -13,7 +13,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|
 | [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, PostgreSQL and Rspec | Using Rails for the first time I built a clone of Instagram            |
-| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, four days into learning Javascript to help me build my skills in the language |
+| [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, four days into learning Javascript to help me build my knowledge of the language |
 | [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw my team and I build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
 
 ## Skills

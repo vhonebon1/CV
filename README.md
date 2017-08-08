@@ -1,10 +1,10 @@
 # Verity Honebon
 
-Before joining Makers Academy I spent six years of working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code a little over a year ago and found that the combination of logic and software design was both intellectually satisfying and addictive. 
+Before joining Makers Academy I spent six years working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code in 2016 and found that the combination of logic and software design was both intellectually satisfying and addictive. 
 
-I decided to join Makers Academy to improve the quality of my code and, drawn in by the intensity of the course, to challenge to myself.  In addition to the technical and soft skils I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
+I decided to join Makers Academy to improve the quality of my code and, drawn in by the intensity of the course, as a challenge to myself.  In addition to the technical and soft skils I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to iteratively improve my own learning processes.
 
-I work well in collborative teams and care about the impact of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and has a positive impact on the world. 
+I work well in collborative teams and care about the outcome of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and has a positive impact on the world. 
 
 ## Projects
 

@@ -8,7 +8,7 @@ I would like to work for a company that values collaboration highly and whose go
 
 ## Projects
 
-During my time at Makers Academy, I have gone from being a novice coder to being able to confidently build end-to-end web and mobile applications using a range of technologies.  You can find a full list of projects on my Github but below are some of my favourite projects to date:
+During my time at Makers Academy, I have gone from being a hobbyist coder to being able to confidently build end-to-end web and mobile applications using a range of technologies.  You can find a full list of projects on my Github but below are some of my favourite projects to date:
 
 | Project Name  | Technologies          | Description  |
 | ------------- | ----------------------|--------------|

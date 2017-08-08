@@ -21,7 +21,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 #### Communication
 
 * In previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
-* One of my goals on starting Makers Academy was to become a programmer with great collboration skills and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
+* One of my goals on starting Makers Academy was to become a programmer with great collboration skills and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standups and retros.
 
 
 #### Data analysis

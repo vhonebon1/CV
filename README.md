@@ -1,10 +1,10 @@
 # Verity Honebon
 
-I am a creative person who intensely enjoys problem solving.
+Before joining Makers Academy I spent six years of working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code a little over a year ago and found that the combination of logic and software design was both intellectually satisfying and addictive. 
 
-After six years of working in arts logistics and exhibition design I joined Makers Academy to improve the quality of my code and to challenge myself to learn new skills with like minded people.  In addition to the technical skills I have learned, the course has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
+I decided to join Makers Academy to improve the quality of my code and, drawn in by the intensity of the course, to challenge to myself.  In addition to the technical and soft skils I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to continually improve my own learning processes.
 
-I would like to work for a company that values collaboration highly and whose goal is to have a positive impact on the world. 
+I work well in collborative teams and care about the impact of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and has a positive impact on the world. 
 
 ## Projects
 
@@ -21,7 +21,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 #### Communication
 
 * In previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
-* My goal on starting Makers Academy was to become a great collaborator and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
+* One of my goals on starting Makers Academy was to become a programmer with great collboration skills and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standup and retros.
 
 
 #### Data analysis

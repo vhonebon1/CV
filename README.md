@@ -76,9 +76,7 @@ Project Assistant
 
 ## Other Interests
 
-I write a [blog](https://medium.com/@verityhonebon) about my transition from Arts to Tech.
-
-In my spare time I run, box and attend art exhibitions.
+I write a [blog](https://medium.com/@verityhonebon) about my transition from Arts to Tech. In my spare time I run, box and attend art exhibitions.
 
 
 

@@ -26,7 +26,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 
 #### Data analysis
 
-* Studying ancient languages at university was very thorough training in critical thinking and data analysis.  There are very clear parallels that can be drawn between writing code and text composition since in both cases structure, content and style must all be carefully considered.  
+* Studying ancient languages at university was thorough training in critical thinking and data analysis.  There are very clear parallels that can be drawn between writing code and text composition since in both cases structure, content and style must all be carefully considered.  
 * While working at the National Gallery I developed my analytical skills by gathering and analysing numerical data, including visitor figures, retail income and wifi traffic, as part of several operational trial projects designed to maximise the Gallery's profit in the face of significant funding cuts.  In the summer of 2017 the Gallery changed the location of its main entrance based on the analysis I presented to the Board.  This resulted in an 6% upturn in retail profit and exhibition ticket sales.  
 
 #### Problem solving

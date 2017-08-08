@@ -4,7 +4,7 @@ Before joining Makers Academy I spent six years working in arts logistics and ex
 
 I decided to join Makers Academy to improve the quality of my code and, drawn in by the intensity of the course, as a challenge to myself.  In addition to the technical and soft skils I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to iteratively improve my own learning processes.
 
-I work well in collborative teams and care about the outcome of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and has a positive impact on the world. 
+I work well in collborative teams and care about the outcome of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and that has a positive impact on the world. 
 
 ## Projects
 

@@ -2,9 +2,9 @@
 
 Before joining Makers Academy I spent six years working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code in 2016 and found that the combination of logic and software design was both intellectually satisfying and addictive. 
 
-I decided to join Makers Academy to improve the quality of my code and, atracted by the intensity of the course, as a challenge to myself.  In addition to the technical and soft skils I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to iteratively improve my learning.
+I decided to join Makers Academy to improve the quality of my code and, attracted by the intensity of the course, as a challenge to myself.  In addition to the technical and soft skills I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to iteratively improve my learning.
 
-I work well in collborative teams and care about the outcome of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and that has a positive impact on the world. 
+I work well in collaborative teams and care about the outcome of my work.  With this in mind I would like to work for a company that fosters a collaborative working environment and that has a positive impact on the world. 
 
 ## Projects
 
@@ -21,7 +21,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 #### Communication
 
 * In previous roles I organised international and high profile art exhibitions that often had many stakeholders in various locations across the world (including clients, artists, gallery owners and colleagues). The ability to communicate clearly to a large range of people, sometimes on minuscule details, was essential. 
-* One of my goals on starting Makers Academy was to become a programmer with great collboration skills and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standups and retros.
+* One of my goals on starting Makers Academy was to become a programmer with great collaboration skills and an enabler of my own and others' ideas.  I achieved this by tailoring my existing communication skills to pairing and group work, by following the rules of XP Programming and by championing regular standups and retros.
 
 
 #### Data analysis
@@ -48,7 +48,7 @@ Highlights of the course:
 - Using the following testing frameworks: Rspec, Jasmine and custom built assertion libraries
 
 #### London School of Economics Summer School (July - August 2014)
-Priniciples of Accounting and Financial Decision Making - Grade A
+Principles of Accounting and Financial Decision Making - Grade A
 
 #### King's College London (September 2008 - August 2011)
 Classics BA - 2.1 
@@ -68,7 +68,7 @@ Notable projects:
 #### Imperial College Healthcare Trust Charity (January - June 2015)   
 Arts Administrator, Arts Team
 
-#### Contantine Fine Art Logisitics (July 2012 - June 2014)
+#### Constantine Fine Art Logistics (July 2012 - June 2014)
 Coordinator, Galleries and Collectors Team
 
 #### The Public Catalogue Foundation (May 2011 - July 2012)

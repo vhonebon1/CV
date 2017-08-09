@@ -1,6 +1,6 @@
 # Verity Honebon
 
-Before joining Makers Academy I spent six years working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code in 2016 and found that the combination of logic and software design was both intellectually satisfying and addictive. 
+Before joining Makers Academy I spent six years working in arts logistics and exhibition design.  During this time I worked on a number of arts and technology crossover projects and this was the catalyst for my interest in tech.  I began to teach myself to code in 2016 and found that the combination of logic and software design was both immersive and intellectually satisfying. 
 
 I decided to join Makers Academy to improve the quality of my code and, attracted by the intensity of the course, as a challenge to myself.  In addition to the technical and soft skills I have gained, Makers Academy has given me greater confidence in my ability to approach the unfamiliar and a clearer insight into how to iteratively improve my learning.
 
@@ -14,7 +14,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 | ------------- | ----------------------|--------------|
 | [Instagram](https://github.com/vhonebon1/instagram-challenge)     | Ruby, Rails, PostgreSQL and Rspec | Using Rails for the first time I built a clone of Instagram            |
 | [Shortkeys](https://github.com/vhonebon1/shortkeys)              | Javascript and Jasmine                      |              I built this programe, which teaches you useful Atom shortcuts, four days into learning Javascript to help me build my knowledge of the language |
-| [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw my team and I build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
+| [Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)  | Javascript, Jasmine, JQuery          |      This group project saw me and my team build a sarcastic therapist chat-bot without the use of APIs or libraries        |  
 
 ## Skills
 
@@ -31,7 +31,7 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 
 #### Problem solving
 
-* Problem solving was one of the main things that drew me to coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed very practical problem solving skills at work - no one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such eschewing existing testing frameworks in favour of building my own - and aim to continue learning new languages as part of this outlook.
+* Problem solving was one of the main things that drew me to coding and it has been the thing I have enjoyed the most during my time at Makers Academy.  I employed very practical problem solving skills at work - no one exhibition was the same and I was often faced with unique logistical constraints, for example shipping to or from unusual locations or working with priceless, large or extremely fragile artworks.  I have greatly enjoyed being able to apply my skills to coding and to engage with problems on a more theoretical level.  During the course I have actively sought out extra challenges - such as avoiding existing testing frameworks in favour of building my own - and aim to continue learning new languages as part of this outlook.
 
 ## Education
 
@@ -39,9 +39,9 @@ During my time at Makers Academy, I have gone from being a hobbyist coder to bei
 
 Highlights of the course:
 
-- Feeding my curiosity and passion for code - demonstrated in my work from the course and my side projects
+- Feeding my curiosity and fascination for code - demonstrated in my work from the course and my side projects
 - Adopting a growth-mindset and becoming more adept at analysing my strengths and potential areas for improvement
-- Focusing on best practise and high quality code through OOP, TDD and MVC
+- Focusing on best practice and high quality code through OOP, TDD and MVC
 - Championing structured communication including daily standups and retros
 - Following the principles of agile software development and extreme programming closely
 - Using the following technologies: Ruby, Rails, Javascript, Node.js and Clojure
